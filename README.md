@@ -35,7 +35,7 @@ The system uses multiple hardware components to implement and control its functi
     - Cathode: Connected to GND.
   - Green LED:
     - Anode: Connected to a 330Ω resistor, then to GPIO 13 of the Raspberry Pi.
-    -Cathode: Connected to GND.
+    - Cathode: Connected to GND.
 
 - Bluetooth Module HC-05:
   - VCC: Connected to VBUS of the Raspberry Pi.
@@ -48,3 +48,17 @@ The system uses multiple hardware components to implement and control its functi
   - Pin C (Cathode): Connected to GND of the Raspberry Pi.  
   - Pin C (Collector): Connected to a 1kΩ pull-down resistor, then to GPIO 16 of the Raspberry Pi.
   - Pin E (Emitter): Connected to GND of the Raspberry Pi.
+ 
+    
+## Illustration of the Implemented System
+
+- The images showcase the hardware configuration used in our smart traffic light project.
+![IMG_2034](https://github.com/user-attachments/assets/6d47f0e3-6f09-4c09-9488-8a87828c5c81)
+
+![IMG_2032](https://github.com/user-attachments/assets/bcd2169b-01d9-4a6c-87d7-e85403a8ddad)
+
+- llustration of the System in the Application Console
+![fce16cfc-5e04-4419-8116-22cd8445b082](https://github.com/user-attachments/assets/2904d83c-b961-4602-b80c-46a1af35025f)
+
+- Illustration of the User Interface
+![Serial Terminal](https://github.com/user-attachments/assets/278d19a0-01fb-452a-9731-98a193d4e7fa)
